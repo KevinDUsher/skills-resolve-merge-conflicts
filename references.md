@@ -1,2 +1,2 @@
-This is text that will conflict with the main
 
+This is text that will conflict with the main
